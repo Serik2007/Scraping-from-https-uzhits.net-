@@ -1,1 +1,1 @@
-# Scraping-from-https-uzhits.net-
+# Scraping from  https://uzhits.net/
